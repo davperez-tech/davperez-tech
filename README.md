@@ -5,7 +5,7 @@
 - <b>SOC in Azure (Microsoft Sentinel)</b>
   - [Coming soon...]()
     
-<h2>📄 Certficiations</h2>
+<h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/5f6c38cb-686e-4e9c-8709-117cea4f5e18/linked_in_profile)
 - [CompTIA CySA+](https://www.credly.com/badges/655a427b-3cc2-4f90-b204-df1d84cd5c3e)
