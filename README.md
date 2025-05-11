@@ -1,6 +1,6 @@
 <h1>Hey, I am David Perez! <br/><a href="https://github.com/davperez-tech"> <a href="https://www.linkedin.com/in/daperezpuello/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -13,7 +13,7 @@
   - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/32caaa5d-7db7-482b-9d68-0ff73a9e6e85/linked_in_profile)
   - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000639131/8tuf742e63)
     
-<h2> 🤳 Connect with me:</h2>
+<h2>📲 Connect with me:</h2>
 
 [<img align="left" alt="daperezpuello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
