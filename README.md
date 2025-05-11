@@ -1,3 +1,5 @@
+<img src="Banner.jpeg" alt="GitHub Banner" width="100%" />
+
 <h1>Hey, I am David Perez! <br/><a href="https://github.com/davperez-tech"> <a href="https://www.linkedin.com/in/daperezpuello/">Cybersecurity Professional</a>
 
 <h2>🖥️ Cybersecurity Projects:</h2>
