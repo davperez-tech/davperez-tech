@@ -5,7 +5,7 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>SOC in Azure (Microsoft Sentinel)</b>
-  - https://github.com/davperez-tech/Azure-MS-Sentinel-SOC-SIEM/blob/main/README.md
+  - [SOC in Azure](https://github.com/davperez-tech/Azure-MS-Sentinel-SOC-SIEM/tree/main)
     
 <h2>📄 Certifications</h2>
 
