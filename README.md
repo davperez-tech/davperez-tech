@@ -6,6 +6,7 @@
 
 - <b>SOC in Azure (Microsoft Sentinel)</b>
   - [SOC Automation with AI](https://github.com/davperez-tech/SOC-Automation)
+  - [SOC Splunk Dashboard](https://github.com/davperez-tech/Splunk-SOC-Dashboard)
     
 <h2>📄 Certifications</h2>
 
